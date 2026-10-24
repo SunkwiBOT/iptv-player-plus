@@ -4,7 +4,8 @@
 
 A native desktop player for your Xtream Codes account, on Linux, Windows and
 macOS: smooth playback, HDR, passthrough audio, and your favorites, history and
-settings on every computer with one anonymous access key.
+settings on every computer. No account to create: sign in with your provider
+and the app does the rest.
 
 - **A real video player**: embedded libmpv with hardware decoding, HDR10 and
   Dolby Vision tone mapping (native HDR in fullscreen on Windows), bitstream
@@ -13,10 +14,14 @@ settings on every computer with one anonymous access key.
   with rich artwork, and downloads for offline viewing.
 - **A home page** with continue watching, recently added movies and series,
   channels with replay and the week's trends your provider can play.
-- **Synced everywhere**: favorites, watch history, resume points and settings
-  follow your access key from one computer to the next.
+- **Synced everywhere**: the app creates an anonymous access key for you.
+  Copy it from **Settings → Account** and paste it on another computer with
+  **Use an existing key**: favorites, watch history, resume points and
+  settings stay the same on both. The same key signs you in on the website.
 - **Private by design**: the key is sixteen random digits, with no email and no
   account. Your provider address and credentials never leave your computer.
+- **Works on its own**: if our service cannot be reached, playback and your
+  library keep working, and your changes are synced once it is back.
 - **Parental control** with a PIN and a section for kids.
 
 IPTV Player + provides no channel and no content: it plays the Xtream Codes
